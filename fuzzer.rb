@@ -4,7 +4,7 @@ require 'socket'
 
 buffer = "A" 
 host = ""
-port = "" 
+port = 0 
 fuzz = 40 # the code is going to fuzz the program 40 times 
 
 
