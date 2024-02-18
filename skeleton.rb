@@ -11,7 +11,7 @@ offset = 0
 
 overflow = buffer * offset
 
-retn = "" 
+retn = "BBBB" 
 
 eip = "" # The EIP / Return Address 
 
