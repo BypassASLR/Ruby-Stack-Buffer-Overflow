@@ -13,7 +13,7 @@ overflow = buffer * offset
 
 retn = "" 
 
-eip = "" # The EIP / Return Address 
+eip = "" # The EIP / Return Address make sure to type it backwards and correctly 
 
 padding = "" # NOPs , at least 16 example : "\x90" * 16
 
